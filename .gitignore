@@ -196,8 +196,6 @@ build/
 
 # Docker
 .dockerignore
-Dockerfile
-docker-compose.yml
 
 # Secret keys / config
 secrets.yaml
